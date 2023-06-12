@@ -46,25 +46,8 @@
      <Folder Include="Assets/Presets/Defaults" />
      <Folder Include="Assets/Scenes" />
      <Folder Include="Assets/Scripts" />
-     <Folder Include="Assets/ExampleAssets/Textures/Props/Jigsaw" />
-     <Folder Include="Assets/ExampleAssets/Textures/Drywall" />
-     <Folder Include="Assets/ExampleAssets/Textures/Plastic" />
      <Folder Include="Assets/Presets" />
-     <Folder Include="Assets/ExampleAssets/Textures/Props/Hammer" />
-     <Folder Include="Assets/ExampleAssets/Textures/Props/Paint" />
      <Folder Include="Assets/Settings" />
-     <Folder Include="Assets/ExampleAssets/Textures/Concrete" />
-     <Folder Include="Assets/ExampleAssets/Textures/Metal" />
-     <Folder Include="Assets/ExampleAssets" />
-     <Folder Include="Assets/ExampleAssets/Models" />
-     <Folder Include="Assets/ExampleAssets/Textures/Props/Construction_Light" />
-     <Folder Include="Assets/ExampleAssets/Textures/Props" />
-     <Folder Include="Assets/ExampleAssets/Shaders" />
-     <Folder Include="Assets/ExampleAssets/Textures" />
-     <Folder Include="Assets/ExampleAssets/Textures/Props/HardHat" />
-     <Folder Include="Assets/ExampleAssets/Prefabs" />
-     <Folder Include="Assets/ExampleAssets/Textures/Wood" />
-     <Folder Include="Assets/ExampleAssets/Materials" />
      <Reference Include="UnityEngine">
      <HintPath>/Applications/Unity/Hub/Editor/2021.3.25f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.dll</HintPath>
      </Reference>
